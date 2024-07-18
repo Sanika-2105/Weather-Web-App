@@ -12,5 +12,7 @@ The Weather Web App is a simple application that allows users to check real-time
 ##Technologies Used:
 
 -**Programming Language: JavaScript
+
 -**Frontend: HTML, CSS, JavaScript
+
 -**API: OpenWeatherMap API
